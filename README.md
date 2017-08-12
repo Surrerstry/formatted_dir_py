@@ -1,2 +1,2 @@
 # formatted_dir_py
-# https://surrerstry.pl/
+https://surrerstry.pl/formatted_dir
