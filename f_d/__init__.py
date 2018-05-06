@@ -1,1 +1,1 @@
-from f_d import fd
+from f_d.fd import fd
