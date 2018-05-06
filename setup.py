@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
 	name = 'f_d',
 	packages = ['f_d'],
-	version = '0.1',
+	version = '0.2',
 	description = "Works the same like dir, but prints out results in more readable way.",
 	author = 'Damian Medrala',
 	author_email = 'surrerstry@gmail.com',
